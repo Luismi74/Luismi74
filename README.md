@@ -1,6 +1,8 @@
 # I know you like people who code, check my repos 😉
  <img align="right" alt="GIF" src="https://github.com/Luismi74/Luismi74/blob/master/Gif-Luis2-min.gif"/>
+
 </br>
+
 ## More about me:
 
 - I’m currently learning Tailwind CSS and Javascript (We never end learning it :/)
