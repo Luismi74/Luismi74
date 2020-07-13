@@ -14,4 +14,4 @@
 
 Follow me on: [![Twitter Badge](https://img.shields.io/badge/-@Dev_Luismi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dev_Luismi)](https://twitter.com/Dev_Luismi)
 
-![Luis Miguel's github stats](https://github-readme-stats.vercel.app/api?username=luismi74&show_icons=true&hide_border=true)
+![Luis Miguel's github stats](https://github-readme-stats.vercel.app/api?username=luismi74&show_icons=true&hide_border=false)
