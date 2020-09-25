@@ -3,10 +3,8 @@
 
 ## More about me:
 
-- I’m currently learning Tailwind CSS and Javascript, improving my Python skills (We never end learning it :/)
+- I’m currently improving my Python skills 
 - Looking to collaborate in any Python project 🐍
-- Bots and automation projects are my favorites  
-- 💬 Ask me about anything, I will do my best to help  out
 - Follow me on: [![Twitter Badge](https://img.shields.io/badge/-@Dev_Luismi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dev_Luismi)](https://twitter.com/Dev_Luismi)
 
 
