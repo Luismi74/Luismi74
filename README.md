@@ -1,5 +1,5 @@
 # Welcome Stranger!
- <img align="right" alt="GIF" src="https://github.com/Luismi74/Luismi74/blob/master/Gif-Luis2-min.gif"/>&nbsp;
+
 
 ## More about me:
 
