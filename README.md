@@ -12,4 +12,4 @@
 
 
 ### Tech Stack
-<img src="https://skillicons.dev/icons?i=js,html,css,swift,php,dart,flutter,appwrite,firebase" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, ReactJS, Python, Dart, HTML, CSS, JS" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,html,css,dart,flutter,python,firebase,react" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, ReactJS, Python, Dart, HTML, CSS, JS" /> <br /><br />
