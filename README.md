@@ -1,7 +1,6 @@
 # Hello There! Luis from Montreal
 
 
-
 ## More about me:
 
 - Currently working as a software engineer building mobile apps with Flutter 📲
